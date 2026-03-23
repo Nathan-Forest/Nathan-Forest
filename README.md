@@ -19,6 +19,7 @@ I build **production-grade automation tools** for multi-tenant Microsoft 365 env
 **Languages:**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat&logo=powershell) 
 ![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat&logo=c-sharp) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
